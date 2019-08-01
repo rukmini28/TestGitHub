@@ -1,2 +1,4 @@
 # TestGitHub
-Test Git Hub repository
+Test Git Hub is a repository created for test purposes
+
+
